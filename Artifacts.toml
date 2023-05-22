@@ -1,0 +1,101 @@
+[[isa_l]]
+arch = "aarch64"
+git-tree-sha1 = "4439e21e3e148e4f660124d75408c15efe0fe55c"
+libc = "glibc"
+os = "linux"
+
+    [[isa_l.download]]
+    sha256 = "87949fa9b970150df47808547242de32a44264daa1e1842495727088a382f367"
+    url = "https://github.com/JuliaBinaryWrappers/isa_l_jll.jl/releases/download/isa_l-v2.30.0+0/isa_l.v2.30.0.aarch64-linux-gnu.tar.gz"
+[[isa_l]]
+arch = "aarch64"
+git-tree-sha1 = "1dbb59cc16dc2e444dcf6fea0ec186f73d7fe4c7"
+libc = "musl"
+os = "linux"
+
+    [[isa_l.download]]
+    sha256 = "fb83f4fff5fd86841771f64373b0dab5ce6147f536a5de28ad9751fa0831cd1e"
+    url = "https://github.com/JuliaBinaryWrappers/isa_l_jll.jl/releases/download/isa_l-v2.30.0+0/isa_l.v2.30.0.aarch64-linux-musl.tar.gz"
+[[isa_l]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "ad0ffa9b83bd83621a6bd4ddc501131db8eba353"
+libc = "glibc"
+os = "linux"
+
+    [[isa_l.download]]
+    sha256 = "b8a168a4faae0fe2b25a31e3f36c8d0fb5ad60e3743267eba5000105f0c647eb"
+    url = "https://github.com/JuliaBinaryWrappers/isa_l_jll.jl/releases/download/isa_l-v2.30.0+0/isa_l.v2.30.0.armv6l-linux-gnueabihf.tar.gz"
+[[isa_l]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "c9ccd2a1be61f5066effd92623f4e8c852eaf4d2"
+libc = "musl"
+os = "linux"
+
+    [[isa_l.download]]
+    sha256 = "0c44a86273a2601a0fcc71a718f6e306e31ffa9c122e2c29f10b0065f537b967"
+    url = "https://github.com/JuliaBinaryWrappers/isa_l_jll.jl/releases/download/isa_l-v2.30.0+0/isa_l.v2.30.0.armv6l-linux-musleabihf.tar.gz"
+[[isa_l]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "130e73bb8d8af4ef9deb086c9fe3996703993229"
+libc = "glibc"
+os = "linux"
+
+    [[isa_l.download]]
+    sha256 = "19f0064c42b5181da79a0b1754387a9a6d54db516bfa38aa9cece7ad690df7cb"
+    url = "https://github.com/JuliaBinaryWrappers/isa_l_jll.jl/releases/download/isa_l-v2.30.0+0/isa_l.v2.30.0.armv7l-linux-gnueabihf.tar.gz"
+[[isa_l]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "b68294c3403e2df2b9391402606278bd81de53bd"
+libc = "musl"
+os = "linux"
+
+    [[isa_l.download]]
+    sha256 = "28b6bff3f71e5000e9bec8290f5dadcc94142fe80b0d694c667fbf38909d1e66"
+    url = "https://github.com/JuliaBinaryWrappers/isa_l_jll.jl/releases/download/isa_l-v2.30.0+0/isa_l.v2.30.0.armv7l-linux-musleabihf.tar.gz"
+[[isa_l]]
+arch = "powerpc64le"
+git-tree-sha1 = "a00cf300f1e1efbf693c5bfa577ace232c3e7d02"
+libc = "glibc"
+os = "linux"
+
+    [[isa_l.download]]
+    sha256 = "4cd0c0815a8b205220a19704f1af17a50d952511b70bfaaeed8eec59f24565c2"
+    url = "https://github.com/JuliaBinaryWrappers/isa_l_jll.jl/releases/download/isa_l-v2.30.0+0/isa_l.v2.30.0.powerpc64le-linux-gnu.tar.gz"
+[[isa_l]]
+arch = "x86_64"
+git-tree-sha1 = "7bcec66a8d9ddeea3639636a9e75fcba33ef055c"
+os = "macos"
+
+    [[isa_l.download]]
+    sha256 = "6b79e5c6a5c09c9995242dfd246c2e582d227a73d1e0f3ca65529ab93d5b54a7"
+    url = "https://github.com/JuliaBinaryWrappers/isa_l_jll.jl/releases/download/isa_l-v2.30.0+0/isa_l.v2.30.0.x86_64-apple-darwin.tar.gz"
+[[isa_l]]
+arch = "x86_64"
+git-tree-sha1 = "1631dab68f08a41fbcf053d830b15d1e0e392620"
+libc = "glibc"
+os = "linux"
+
+    [[isa_l.download]]
+    sha256 = "9fce01d5fef21cc5f6045ba0c8e38453ab00145a3a2664afb807d9760aaa573e"
+    url = "https://github.com/JuliaBinaryWrappers/isa_l_jll.jl/releases/download/isa_l-v2.30.0+0/isa_l.v2.30.0.x86_64-linux-gnu.tar.gz"
+[[isa_l]]
+arch = "x86_64"
+git-tree-sha1 = "a7c4f297f23947153ff6956f6a1d791e023645d8"
+libc = "musl"
+os = "linux"
+
+    [[isa_l.download]]
+    sha256 = "835eff25fa5f70f163b628da94c40c02137da1f85db7408851ace65d37cde0a2"
+    url = "https://github.com/JuliaBinaryWrappers/isa_l_jll.jl/releases/download/isa_l-v2.30.0+0/isa_l.v2.30.0.x86_64-linux-musl.tar.gz"
+[[isa_l]]
+arch = "x86_64"
+git-tree-sha1 = "01a55a8aa899b00fd423b143f13255e4d39ec254"
+os = "freebsd"
+
+    [[isa_l.download]]
+    sha256 = "07b14b05707e7c5727ad794b48b47b364c8fb788f01106e870f98638f9e3c318"
+    url = "https://github.com/JuliaBinaryWrappers/isa_l_jll.jl/releases/download/isa_l-v2.30.0+0/isa_l.v2.30.0.x86_64-unknown-freebsd.tar.gz"
